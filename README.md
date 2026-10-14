@@ -25,7 +25,7 @@ Many people see knowledge only as a tool: you learn something to pass an exam, l
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rafael-guimaraens-84a4a9443)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-guimaraens-84a4a9443/)
 
 ---
 
