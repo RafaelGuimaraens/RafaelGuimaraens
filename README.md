@@ -21,12 +21,11 @@ This is where I document what I build as I learn, from data analysis and databas
 
 Main tools: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
+Many people see knowledge only as a tool: you learn something to pass an exam, land a job or solve an immediate problem, and then you leave it behind. But knowledge goes far beyond what is useful in everyday life. It changes the way we see the world, expands what we are able to imagine and gives us the freedom to question, create and choose our own paths. That is the sense in which knowledge is power: not only the power to do more, but the power to understand more. I am passionate about learning, whether it means understanding the mathematics behind a model, discovering how the universe works or exploring something completely new, and every new thing I learn feels less like a destination and more like a door opening to the next question.
+
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-URL/)
 
-Many people see knowledge only as a tool: you learn something to pass an exam, land a job or solve an immediate problem, and then you leave it behind. But knowledge goes far beyond what is useful in everyday life. It changes the way we see the world, expands what we are able to imagine and gives us the freedom to question, create and choose our own paths. That is the sense in which knowledge is power: not only the power to do more, but the power to understand more. I am passionate about learning, whether it means understanding the mathematics behind a model, discovering how the universe works or exploring something completely new, and every new thing I learn feels less like a destination and more like a door opening to the next question.
-
 ---
 
-<p align="center"><i>"What I cannot create, I do not understand." — Richard Feynman</i></p>
